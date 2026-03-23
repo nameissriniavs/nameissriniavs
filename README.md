@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nameissriniavs
 - 👀 I’m interested in cloud computing
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
